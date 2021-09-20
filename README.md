@@ -1,4 +1,4 @@
-# Welcome to MS Teams Clone!
+# Welcome to my project!
 
 ### [Example Website](https://chat-app-jsmastery.netlify.app)
 
